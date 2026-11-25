@@ -35,6 +35,9 @@
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
 | **[CarService (АвтоПрактик)](https://github.com/skandersim/CarService)** | Лендинг автосервиса с онлайн-записью, кастомными модалками и админ-панелью для учёта заявок и выручки | `HTML` `CSS` `JS` `FastAPI` `SQLite` |
+| **[TaskFlow](https://github.com/skandersim/task-flow)** | Современное веб-приложение для управления задачами, распределения по категориям и планирования дел | `HTML` `CSS` `JS` |
+| **[Cafe Web Practice](https://github.com/skandersim/cafe-web.practice)** | Веб-сайт для кафе с адаптивной вёрсткой и интерактивом | `HTML` `CSS` `JS` |
+| **[Snake JS](https://github.com/skandersim/snake-js)** | Классическая Змейка на чистом JavaScript с графикой и сохранением рекорда | `HTML` `CSS` `JavaScript` |
 
 <br/>
 
