@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Крутой градиентный баннер -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7f1d1d,100:dc2626&height=120&section=header" width="100%" />
+<!-- Волновой баннер -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:dc2626&height=200&section=header&text=skandersim&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Python%20%2B%20JS&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Печатающийся и стирающийся текст -->
 <a href="https://github.com/skandersim">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=skandersim;Fullstack+Developer;Python+%2B+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=skandersim;Fullstack+Developer;Python+%2B+JavaScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,7 +40,7 @@
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
 | **[CarService (АвтоПрактик)](https://github.com/skandersim/CarService)** | Лендинг автосервиса с онлайн-записью, кастомными модалками и админ-панелью для учёта заявок и выручки | `HTML` `CSS` `JS` `FastAPI` `SQLite` |
-| **[TaskFlow](https://github.com/skandersim/task-flow)** | Современное веб-приложение для управления задачами, распределения по категориям и планирования дел | `HTML` `CSS` `JS` `Python` `PostgreSQL` |
+| **[TaskFlow](https://github.com/skandersim/task-flow)** | Современное веб-приложение для управления задачами, распределения по категориям и планирования дел | `HTML` `CSS` `JS` `Python` `Flask` `PostgreSQL` |
 | **[Cafe Web Practice](https://github.com/skandersim/cafe-web.practice)** | Веб-сайт для кафе с адаптивной вёрсткой и интерактивом | `HTML` `CSS` `JS` |
 | **[Snake JS](https://github.com/skandersim/snake-js)** | Классическая Змейка на чистом JavaScript с графикой и сохранением рекорда | `HTML` `CSS` `JavaScript` |
 
@@ -71,6 +71,22 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 &nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+<br/>
+
+### 🎯 В планах изучить
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+&nbsp;
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
