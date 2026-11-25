@@ -1,18 +1,26 @@
 <div align="center">
 
-<!-- Анимированный баннер с ником -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:dc2626&height=200&section=header&text=skandersim&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Python%20%2B%20JS&descAlignY=58&descSize=18" width="100%" />
-
-<br/>
-
-<!-- Просмотры и контакты с отступами -->
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7f1d1d,100:dc2626&height=180&section=header&text=skandersim&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+<!-- Крутой градиентный баннер -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7f1d1d,100:dc2626&height=120&section=header" width="100%" />
 
 <!-- Печатающийся и стирающийся текст -->
 <a href="https://github.com/skandersim">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=skandersim;Fullstack+Developer;Python+%2B+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=500&lines=skandersim;Fullstack+Developer;Python+%2B+JavaScript" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- Просмотры и контакты -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=skandersim&label=Просмотры&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://t.me/skandersim">
+    <img src="https://img.shields.io/badge/Telegram-skandersim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:belovmatvei99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-belovmatvei99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 </div>
