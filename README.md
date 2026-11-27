@@ -37,12 +37,12 @@
 
 ### 🚀 Проекты
 
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
-| **[CarService (АвтоПрактик)](https://github.com/skandersim/car-service-web.practice)** | Лендинг автосервиса с онлайн-записью, кастомными модалками и админ-панелью для учёта заявок и выручки | `HTML` `CSS` `JS` `FastAPI` `SQLite` |
-| **[TaskFlow](https://github.com/skandersim/task-flow)** | Современное веб-приложение для управления задачами, распределения по категориям и планирования дел | `HTML` `CSS` `JS` `Python` `Flask` `PostgreSQL` |
-| **[Cafe Web Practice](https://github.com/skandersim/cafe-web.practice)** | Веб-сайт для кафе с адаптивной вёрсткой и интерактивом | `HTML` `CSS` `JS` |
-| **[Snake JS](https://github.com/skandersim/snake-js)** | Классическая Змейка на чистом JavaScript с графикой и сохранением рекорда | `HTML` `CSS` `JavaScript` |
+| Проект | Описание | Стек | Ссылки |
+| :--- | :--- | :--- | :--- |
+| **CarService (АвтоПрактик)** | Лендинг автосервиса с онлайн-записью, кастомными модалками и админ-панелью для учёта заявок и выручки | `HTML` `CSS` `JS` `FastAPI` `SQLite` | [🌐 Демо](https://car-service-web-practice.onrender.com) · [💻 Код](https://github.com/skandersim/car-service-web.practice) |
+| **TaskFlow** | Современное веб-приложение для управления задачами, распределения по категориям и планирования дел | `HTML` `CSS` `JS` `Python` `Flask` `PostgreSQL` | [🌐 Демо](https://task-flow-eoq0.onrender.com/) · [💻 Код](https://github.com/skandersim/task-flow) |
+| **Cafe Web Practice** | Веб-сайт для кафе с адаптивной вёрсткой и интерактивом | `HTML` `CSS` `JS` | [🌐 Демо](https://skandersim.github.io/cafe-web.practice/) · [💻 Код](https://github.com/skandersim/cafe-web.practice) |
+| **Snake JS** | Классическая Змейка на чистом JavaScript с графикой и сохранением рекорда | `HTML` `CSS` `JavaScript` | [🌐 Демо](https://skandersim.github.io/snake-js/) · [💻 Код](https://github.com/skandersim/snake-js) |
 
 <br/>
 
