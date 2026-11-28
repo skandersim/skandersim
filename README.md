@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Telegram-skandersim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:belovmatvei99@gmail.com">
+  <a href="mailto:skandersim.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-belovmatvei99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
